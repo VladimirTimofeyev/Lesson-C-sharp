@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vladimirtimofeyev/Desktop/C#/task69/task69.csproj",
+      "projectUniqueName": "/Users/vladimirtimofeyev/Desktop/tasks/Lesson-C-sharp/task69.csproj",
       "projectName": "task69",
-      "projectPath": "/Users/vladimirtimofeyev/Desktop/C#/task69/task69.csproj",
+      "projectPath": "/Users/vladimirtimofeyev/Desktop/tasks/Lesson-C-sharp/task69.csproj",
       "packagesPath": "/Users/vladimirtimofeyev/.nuget/packages/",
-      "outputPath": "/Users/vladimirtimofeyev/Desktop/C#/task69/obj/",
+      "outputPath": "/Users/vladimirtimofeyev/Desktop/tasks/Lesson-C-sharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vladimirtimofeyev/.nuget/NuGet/NuGet.Config"

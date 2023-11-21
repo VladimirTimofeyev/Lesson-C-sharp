@@ -1,0 +1,15 @@
+/Users/vladimirtimofeyev/Desktop/C#/task01/task05/bin/Debug/net6.0/task05
+/Users/vladimirtimofeyev/Desktop/C#/task01/task05/bin/Debug/net6.0/task05.deps.json
+/Users/vladimirtimofeyev/Desktop/C#/task01/task05/bin/Debug/net6.0/task05.runtimeconfig.json
+/Users/vladimirtimofeyev/Desktop/C#/task01/task05/bin/Debug/net6.0/task05.dll
+/Users/vladimirtimofeyev/Desktop/C#/task01/task05/bin/Debug/net6.0/task05.pdb
+/Users/vladimirtimofeyev/Desktop/C#/task01/task05/obj/Debug/net6.0/task05.csproj.AssemblyReference.cache
+/Users/vladimirtimofeyev/Desktop/C#/task01/task05/obj/Debug/net6.0/task05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirtimofeyev/Desktop/C#/task01/task05/obj/Debug/net6.0/task05.AssemblyInfoInputs.cache
+/Users/vladimirtimofeyev/Desktop/C#/task01/task05/obj/Debug/net6.0/task05.AssemblyInfo.cs
+/Users/vladimirtimofeyev/Desktop/C#/task01/task05/obj/Debug/net6.0/task05.csproj.CoreCompileInputs.cache
+/Users/vladimirtimofeyev/Desktop/C#/task01/task05/obj/Debug/net6.0/task05.dll
+/Users/vladimirtimofeyev/Desktop/C#/task01/task05/obj/Debug/net6.0/refint/task05.dll
+/Users/vladimirtimofeyev/Desktop/C#/task01/task05/obj/Debug/net6.0/task05.pdb
+/Users/vladimirtimofeyev/Desktop/C#/task01/task05/obj/Debug/net6.0/task05.genruntimeconfig.cache
+/Users/vladimirtimofeyev/Desktop/C#/task01/task05/obj/Debug/net6.0/ref/task05.dll
